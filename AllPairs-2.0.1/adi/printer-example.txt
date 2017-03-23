@@ -1,0 +1,4 @@
+Printer	Laptop	Browser
+Dot-matrix	Mac	Chrome
+Laser	Windows	Safari]
+Inkjet	Ubuntu

@@ -1,0 +1,10 @@
+PAIRWISE of scenarios for printing documents:
+0:	['Mac', 'Inkjet', 'Firefox']
+1:	['Windows', 'DotMatrix', 'Firefox']
+2:	['Ubuntu', 'Laserjet', 'Firefox']
+3:	['Ubuntu', 'DotMatrix', 'Chrome']
+4:	['Windows', 'Inkjet', 'Chrome']
+5:	['Mac', 'Laserjet', 'Chrome']
+6:	['Mac', 'DotMatrix', 'Chrome']
+7:	['Windows', 'Laserjet', 'Chrome']
+8:	['Ubuntu', 'Inkjet', 'Chrome']
